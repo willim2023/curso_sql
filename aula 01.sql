@@ -1,4 +1,4 @@
-cCREATE DATABASE curso_sql;
+CREATE DATABASE curso_sql;
 
 USE curso_sql
 
